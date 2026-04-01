@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/render?type=soft&color=ffd1dc&height=150&section=header&text=Hi,%20I'm%20Putri!%20✨&fontSize=50&animation=fadeIn" />
 </p>
 
-### 🎓 <span style="color: #ffb7b2;">Software Engineering Student | Front-end Developer</span> 🎀
+###  🎒 <span style="color: #ffb7b2;">Software Engineering Student | Front-end Developer</span> 🎀
 
 Hi there! I'm Putri, a high school student majoring in Software Engineering who fell in love with **Front-end development**. 🌸 I enjoy turning lines of code into pretty and simple websites. For me, technology feels much warmer when it's paired with the right design! ☁️🌷
 
