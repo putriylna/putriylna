@@ -42,5 +42,5 @@ Hi there! I'm Putri, a high school student majoring in Software Engineering who 
 
 ---
 <p align="center">
-  <i>"Turning code and designs into reality, one pixel at a time. Stay calm and keep coding."</i> ✨☁️
+  <i>"Turning code and designs into reality."</i> ✨☁️
 </p>
