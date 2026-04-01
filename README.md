@@ -1,6 +1,6 @@
 # Halo semuanya! Aku Putri Yuliana di sini ✨ 👋
 
-### 🎒 Student of Software Engineering | Aspiring Front-end Developer 🎀
+### 🎒 Student of Software Engineering | Front-end Developer 🎀
 Aku adalah seorang siswa SMK jurusan Rekayasa Perangkat Lunak yang senang merangkai kode menjadi tampilan web yang cantik. Aku percaya bahwa teknologi bisa terasa hangat dan menyenangkan jika dipadukan dengan desain yang tepat! ☁️🌷
 
 ---
@@ -8,7 +8,7 @@ Aku adalah seorang siswa SMK jurusan Rekayasa Perangkat Lunak yang senang merang
 ### 🍯 Sedikit Tentang Aku
 - 🧸 Sedang asyik mengulik ekosistem **React.js** dan **Next.js**.
 - 🎨 Suka bereksperimen dengan **Tailwind CSS** untuk bikin UI yang estetik.
-- 📱 Fokus belajar agar aplikasi web-ku tampil cantik di HP maupun Laptop.
+- 📱 Fokus belajar agar aplikasi web-ku responsive di semua device.
 - 🚀 Proyek saat ini: **lp-c12** ☁️
 
 ---
@@ -25,7 +25,7 @@ Aku adalah seorang siswa SMK jurusan Rekayasa Perangkat Lunak yang senang merang
 
 ### 🎨 Statistik Belajarku 🐾
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME-ANDA]&show_icons=true&theme=rose_pine" alt="Statistik [Nama]" />
+  <img src="https://github-readme-stats.vercel.app/api?username=putriylna&show_icons=true&theme=rose_pine" alt="Statistik putri yuliana" />
 </p>
 
 <p align="center">
