@@ -1,38 +1,43 @@
-# Halo, saya [Nama Anda]! 👋
-### 🎓 Software Engineering Student | Aspiring Front-end Developer
+# Halo semuanya! Aku Putri Yuliana di sini ✨ 👋
 
-Saya seorang siswa Rekayasa Perangkat Lunak yang antusias dalam membangun pengalaman web yang interaktif, responsif, dan ramah pengguna. Saya percaya bahwa kode yang bagus tidak hanya berfungsi, tapi juga harus estetik dan mudah diakses.
-
----
-
-### 💻 Apa yang sedang saya kerjakan?
-- 🛠️ Memperdalam ekosistem **React.js** dan **Next.js**.
-- 🎨 Bereksperimen dengan **Tailwind CSS** untuk desain UI yang modern.
-- 📱 Mempelajari teknik **Responsive Web Design** agar aplikasi tampil sempurna di semua perangkat.
-- 🚀 Sedang mengerjakan proyek: **lp-c12**
+### 🎒 Student of Software Engineering | Aspiring Front-end Developer 🎀
+Aku adalah seorang siswa SMK jurusan Rekayasa Perangkat Lunak yang senang merangkai kode menjadi tampilan web yang cantik. Aku percaya bahwa teknologi bisa terasa hangat dan menyenangkan jika dipadukan dengan desain yang tepat! ☁️🌷
 
 ---
 
-### 🛠️ Toolbox Teknologi
-| Category | Tools & Languages |
+### 🍯 Sedikit Tentang Aku
+- 🧸 Sedang asyik mengulik ekosistem **React.js** dan **Next.js**.
+- 🎨 Suka bereksperimen dengan **Tailwind CSS** untuk bikin UI yang estetik.
+- 📱 Fokus belajar agar aplikasi web-ku tampil cantik di HP maupun Laptop.
+- 🚀 Proyek saat ini: **lp-c12** ☁️
+
+---
+
+### 🛠️ Toolbox Favoritku 🍓
+| Category | My Pretty Tools |
 | :--- | :--- |
-| **Languages** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Frameworks** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-| **Others** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
+| **Languages** | ![HTML5](https://img.shields.io/badge/-HTML5-FFB7B2?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-B2CEFE?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-FAFAD2?style=flat-square&logo=javascript&logoColor=black) |
+| **Frameworks** | ![React](https://img.shields.io/badge/-React-B2F2BB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-E0E0E0?style=flat-square&logo=next.js&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-AEEEEE?style=flat-square&logo=tailwind-css&logoColor=black) |
+| **Design** | ![Figma](https://img.shields.io/badge/-Figma-FFD1DC?style=flat-square&logo=figma&logoColor=black) |
+| **Others** | ![Git](https://img.shields.io/badge/-Git-FFDAC1?style=flat-square&logo=git&logoColor=black) ![Vercel](https://img.shields.io/badge/-Vercel-F3E5F5?style=flat-square&logo=vercel&logoColor=black) |
 
 ---
 
-### 📊 Statistik GitHub
+### 🎨 Statistik Belajarku 🐾
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME-ANDA]&show_icons=true&theme=tokyonight" alt="Statistik GitHub [Nama]" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME-ANDA]&show_icons=true&theme=rose_pine" alt="Statistik [Nama]" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME-ANDA]&theme=rose_pine" alt="Streak [Nama]" />
 </p>
 
 ---
 
-### 📫 Mari Terhubung
-- **LinkedIn**: [linkedin.com/in/usernameanda](https://linkedin.com/in/usernameanda)
-- **Email**: [emailanda@example.com](mailto:emailanda@example.com)
-- **Instagram**: [@usernameanda](https://instagram.com/pylnrha)
+### 💌 Mari Berteman!
+- **Instagram**: [@pylnrha](https://instagram.com/pylnrha) 🎀
 
-*"Turning code and designs into reality."*
+---
+<p align="center">
+  <i>"Turning code and designs into reality, one pixel at a time. Stay calm and keep coding."</i> ✨☁️
+</p>
