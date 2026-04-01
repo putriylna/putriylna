@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=ffd1dc&height=150&section=header&text=Hi,%20I'm%20Putri!%20✨&fontSize=50&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/may固定/may固定/main/img/header.gif" width="100%" />
 </p>
 
 ###  🎒 <span style="color: #ffb7b2;">Software Engineering Student | Front-end Developer</span> 🎀
