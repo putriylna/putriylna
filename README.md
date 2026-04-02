@@ -9,7 +9,7 @@ Hi there! I'm Putri, a high school student majoring in Software Engineering | **
 
 ---
 
-### 🍯 <span style="color: #b2cefe;">A Little Bit About Me</span>
+### <span style="color: #b2cefe;">A Little Bit About Me</span>
 -  Currently exploring **React.js** and **Next.js**.
 - Fun experimenting with **Tailwind CSS** for aesthetic UI.
 - Learning how to make my web apps look pretty on every device.
@@ -17,7 +17,7 @@ Hi there! I'm Putri, a high school student majoring in Software Engineering | **
 
 ---
 
-### 🛠️ <span style="color: #b2f2bb;">My Pretty Toolbox</span> 
+### <span style="color: #b2f2bb;">My Pretty Toolbox</span> 
 | Category | Tools I Love |
 | :--- | :--- |
 | **Languages** | ![HTML5](https://img.shields.io/badge/-HTML5-FFB7B2?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-B2CEFE?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-FAFAD2?style=flat-square&logo=javascript&logoColor=black) |
@@ -27,7 +27,7 @@ Hi there! I'm Putri, a high school student majoring in Software Engineering | **
 
 ---
 
-### 🐾 <span style="color: #ffdac1;">My Coding Stats</span>
+### <span style="color: #ffdac1;">My Coding Stats</span>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=putriylna&show_icons=true&theme=rose_pine" alt="Putri's Stats" />
 </p>
