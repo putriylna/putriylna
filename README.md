@@ -2,21 +2,22 @@
   <img src="https://raw.githubusercontent.com/may固定/may固定/main/img/header.gif" width="100%" />
 </p>
 
-###  🎒 <span style="color: #ffb7b2;">Software Engineering Student | Front-end Developer</span> 🎀
+###  🎒 <span style="color: #ffb7b2;">Software Engineering Student | Front-end Developer</span> 
 
-Hi there! I'm Putri, a high school student majoring in Software Engineering who fell in love with **Front-end development**. 🌸 WRITE CODE IN JOY ☁️🌷
+Hi there! I'm Putri, a high school student majoring in Software Engineering | **Front-end development**.  
+#WRITECODEINJOY
 
 ---
 
 ### 🍯 <span style="color: #b2cefe;">A Little Bit About Me</span>
-- 🧸 Currently exploring **React.js** and **Next.js**.
-- 🎨 Fun experimenting with **Tailwind CSS** for aesthetic UI.
-- 📱 Learning how to make my web apps look pretty on every device.
-- 🚀 Current project: **lp-c12** ☁️
+-  Currently exploring **React.js** and **Next.js**.
+- Fun experimenting with **Tailwind CSS** for aesthetic UI.
+- Learning how to make my web apps look pretty on every device.
+- Current project: **lp-c12** 
 
 ---
 
-### 🛠️ <span style="color: #b2f2bb;">My Pretty Toolbox</span> 🍓
+### 🛠️ <span style="color: #b2f2bb;">My Pretty Toolbox</span> 
 | Category | Tools I Love |
 | :--- | :--- |
 | **Languages** | ![HTML5](https://img.shields.io/badge/-HTML5-FFB7B2?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-B2CEFE?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-FAFAD2?style=flat-square&logo=javascript&logoColor=black) |
@@ -42,5 +43,5 @@ Hi there! I'm Putri, a high school student majoring in Software Engineering who 
 
 ---
 <p align="center">
-  <i>"Turning code and designs into reality."</i> ✨☁️
+  <i>"Turning code and designs into reality."</i> 
 </p>
