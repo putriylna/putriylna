@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/may固定/may固定/main/img/header.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 </p>
 
 ###  🎒 <span style="color: #ffb7b2;">Software Engineering Student | Front-end Developer</span> 
@@ -28,9 +28,6 @@ Hi there! I'm Putri, a high school student majoring in Software Engineering | **
 ---
 
 ### <span style="color: #ffdac1;">My Coding Stats</span>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=putriylna&show_icons=true&theme=rose_pine" alt="Putri's Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=putriylna&theme=rose_pine" alt="Putri's Streak" />
