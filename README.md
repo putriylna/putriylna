@@ -5,7 +5,7 @@
 
 ###  🎒 <span style="color: #ffb7b2;">Software Engineering Student | Front-end Developer</span> 
 
-Hi there! I'm <b>Putri,</b> Vocational School student majoring in Software Engineering | **Front-end development**.  
+Hi there! I'm <b>Putri,</b>Vocational high school student majoring in software engineering | **Front-end development**.  
 #WRITECODEINJOY
 
 ---
