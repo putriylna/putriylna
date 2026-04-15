@@ -11,11 +11,10 @@ Hi there! I'm <b>Putri,</b> Vocational School student majoring in Software Engin
 ---
 
 ### <span style="color: #b2cefe;">A Little Bit About Me</span>
--  Currently exploring **React.js** and **Next.js**.
-- Fun experimenting with **Tailwind CSS** for aesthetic UI.
-- Learning how to make my web apps look pretty on every device.
-- Current project: **lp-Rplay** 
-
+- Exploring **React.js** & **Next.js** with a focus on **clean and maintainable code**.
+- Crafting **creative, pixel-perfect UI** using **Tailwind CSS**.
+- Building responsive web apps that look aesthetic on every device.
+- Current project: **lp-Rplay** — blending performance with modern design and fullstack architecture.
 ---
 
 ### <span style="color: #b2f2bb;">My Toolbox</span>  
