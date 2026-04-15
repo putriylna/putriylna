@@ -13,7 +13,7 @@ Hi there! I'm <b>Putri,</b> Vocational School student majoring in Software Engin
 -  Currently exploring **React.js** and **Next.js**.
 - Fun experimenting with **Tailwind CSS** for aesthetic UI.
 - Learning how to make my web apps look pretty on every device.
-- Current project: **lp-c12** 
+- Current project: **lp-Rplay** 
 
 ---
 
