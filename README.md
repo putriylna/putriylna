@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&height=300&color=7f00ffa&text=Hi%20friends&textBg=false&fontColor=000000&fontSize=80&animation=twinkling&descAlign=51&stroke=000000&desc=Welcome%20to%20my%20github%20account.&fontAlign=51&fontAlignY=36&descAlignY=50&descSize=30" alt="Putri's Stats" />
+<img src="https://capsule-render.vercel.app/api?type=egg&height=300&color=8F00FF&text=Hi%20friends&textBg=false&fontColor=000000&fontSize=80&animation=twinkling&descAlign=51&stroke=000000&desc=Welcome%20to%20my%20github%20account.&fontAlign=51&fontAlignY=36&descAlignY=50&descSize=30" alt="Putri's Stats" />
 </p>
 
 ###  🎒 <span style="color: #ffb7b2;">Software Engineering Student | Front-end Developer</span> 
