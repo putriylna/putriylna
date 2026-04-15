@@ -18,8 +18,8 @@ Hi there! I'm <b>Putri,</b> Vocational School student majoring in Software Engin
 
 ---
 
-### <span style="color: #b2f2bb;">My Pretty Toolbox</span> 
-| Category | Tools I use |
+### <span style="color: #b2f2bb;">My Toolbox</span> 
+| Category | Tools i use |
 | :--- | :--- |
 | **Languages** | ![HTML5](https://img.shields.io/badge/-HTML5-FFB7B2?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-B2CEFE?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-FAFAD2?style=flat-square&logo=javascript&logoColor=black) |
 | **Frameworks** | ![React](https://img.shields.io/badge/-React-B2F2BB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-E0E0E0?style=flat-square&logo=next.js&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-AEEEEE?style=flat-square&logo=tailwind-css&logoColor=black) |
