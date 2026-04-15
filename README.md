@@ -4,7 +4,7 @@
 
 ###  🎒 <span style="color: #ffb7b2;">Software Engineering Student | Front-end Developer</span> 
 
-Hi there! I'm Putri, Vocational high school student majoring in Software Engineering | **Front-end development**.  
+Hi there! I'm <b>Putri,</b> Vocational School student majoring in Software Engineering | **Front-end development**.  
 #WRITECODEINJOY
 
 ---
@@ -40,5 +40,5 @@ Hi there! I'm Putri, Vocational high school student majoring in Software Enginee
 
 ---
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=egg&height=300&color=8F00FF&text=Turning%20code%20and%20designs%20into%20reality.&section=footer&fontAlign=50&fontSize=30&fontAlignY=64&stroke=000000&animation=scaleIn" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=egg&height=200&color=FFFFFF&text=Turning%20code%20and%20designs%20into%20reality.&section=footer&fontAlign=50&fontSize=25&fontAlignY=50&stroke=8F00FF&strokeWidth=1&animation=fadeIn&fontStyle=JetBrains+Mono&fontColor=8F00FF" alt="Footer" /> -->
 </p>
