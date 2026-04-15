@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=egg&height=300&color=FFFDD0&text=Hi%20friends&textBg=false&fontColor=8F00FF&fontSize=80&animation=twinkling&descAlign=51&stroke=8F00FF&desc=Welcome%20to%20my%20github%20account.&fontAlign=51&fontAlignY=36&descAlignY=50&descSize=30&fontStyle=Courier+New" alt="Putri's Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=8F00FF&background=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Frontend+Developer;+Modern+UI;Turning+Designs+into+Code;Available+for+New+Projects" alt="Typing SVG" />
 </p>
 
 ###  🎒 <span style="color: #ffb7b2;">Software Engineering Student | Front-end Developer</span> 
